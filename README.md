@@ -1,6 +1,6 @@
 
 # Entrance Exam Simulator
-#### Video Demo:<URL https://youtu.be/B1mzuDMq0s8?si=B-5Ef0JrJrg5oTgu>
+
 #### Description:
 Welcome to the "Entrance Exam Simulator"! This project is designed to provide a fun and interactive way for users to test their knowledge in various subjects, including Mathematics, Physics, and Chemistry. Using the whimsical `cowsay` library, this simulator makes the exam-taking experience enjoyable and engaging.
 
