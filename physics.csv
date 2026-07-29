@@ -1,0 +1,50 @@
+question,options,answer
+"Which of the following quantities is a vector quantity?","A) Mass,B) Temperature,C) Force,D) Energy",C
+ "An object is moving with uniform circular motion. What is the direction of its acceleration at any point on its path?","A) Tangential to the path,B) Radial to the path,C) Opposite to the path,D) Perpendicular to the path",B
+ "Which law states that the rate of change of momentum of an object is directly proportional to the force applied?","A) Newton's First Law,B) Newton's Second Law,C) Newton's Third Law,D) Hooke's Law",B
+ "In which of the following scenarios is work done by a force zero?","A) A person lifts a box off the ground,B) A car accelerates on a straight road,C) A pendulum swings back and forth,D) A book rests on a table",D
+ "What happens to the speed of a satellite orbiting the Earth if it is moved to an orbit with a greater radius?","A) Increases,B) Decreases,C) Stays the same,D) Depends on the mass of the satellite",B
+ "When an object moves in a circular path with constant speed, what can be said about its velocity?","A) Constant magnitude and direction,B) Variable magnitude and constant direction,C) Constant magnitude and variable direction,D) Variable magnitude and direction",C
+ "The resistance of a conductor depends on its","A) Length only,B) Area only,C) Material only,D) Length, area, and material",D
+ "Which electromagnetic wave has the longest wavelength?","A) Gamma rays,B) X-rays,C) Radio waves,D) Ultraviolet rays",C
+ "The phenomenon of total internal reflection is used in the working of","A) A concave mirror,B) A convex lens,C) Optical fibres,D) A plane mirror",C
+ "The image formed by a convex mirror is","A) Real and inverted,B) Real and upright,C) Virtual and inverted,D) Virtual and upright",D
+ "In a nuclear reactor, the process that generates energy is","A) Fusion,B) Fission,C) Carbonation,D) Oxidation,"B
+ "The unit of electric current is named after which scientist?","A) Ampère,B) Volta,C) Coulomb,D) Watt",A
+ "Which phenomenon causes the sky to appear blue?","A) Reflection,B) Refraction,C) Dispersion,D) Scattering",D
+ "What is the SI unit of capacitance?","A) Farad,B) Ohm,C) Henry,D) Coulomb",A
+ "The energy stored in a capacitor is","A) 0.5 CV^2,B) 0.5 QV,C) 0.5 Q^2 / C,D) CV^2 / 2",A
+ "The wavelength of a sound wave depends on its","A) Frequency only,B) Amplitude only,C) Medium only,D) Frequency and medium",D
+ "A concave lens is used to correct which type of vision defect?","A) Myopia,B) Hypermetropia,C) Astigmatism,D) Presbyopia",A
+ "The speed of light in vacuum is approximately","A) 3 x 10^6 m/s,B) 3 x 10^7 m/s,C) 3 x 10^8 m/s,D) 3 x 10^9 m/s",C
+ "Which of the following is an example of periodic motion?","A) A ball thrown vertically upwards,B) A car moving on a straight road,C) A swing moving back and forth,D) A boat floating on water",C
+ "The energy possessed by a body due to its position is called","A) Kinetic energy,B) Potential energy,C) Mechanical energy,D) Internal energy",B
+ "Which law states that the entropy of an isolated system always increases?","A) Zeroth Law of Thermodynamics,B) First Law of Thermodynamics,C) Second Law of Thermodynamics,D) Third Law of Thermodynamics",C
+ "The minimum amount of energy required to remove an electron from the surface of a metal is known as","A) Binding energy,B) Work function,C) Ionization energy,D) Potential energy",B
+ "The angle of incidence for which the angle of refraction is 90 degrees is called the angle of","A) Deviation,B) Reflection,C) Total internal reflection,D) Critical angle",D
+ "Which of the following is not a fundamental particle?","A) Proton,B) Electron,C) Neutron,D) Alpha particle",D
+ "Which phenomenon is responsible for the formation of rainbows?","A) Diffraction,B) Dispersion,C) Polarization,D) Interference",B
+ "The working principle of a refrigerator is based on","A) Boyle's Law,B) Charles's Law,C) Joule's Law,D) Carnot Cycle",D
+ "The process of transfer of heat by actual motion of the molecules of a substance is called","A) Conduction,B) Convection,C) Radiation,D) Insulation",B
+ "Which phenomenon is responsible for the formation of mirages?","A) Reflection,B) Refraction,C) Dispersion,D) Scattering",B
+ "The number of significant figures in the measurement 0.00350 m is","A) 2,B) 3,C) 4,D) 5",C
+ "Which of the following is a vector quantity?","A) Power,B) Energy,C) Force,D) Pressure",C
+ "What is the SI unit of magnetic flux?","A) Weber,B) Tesla,C) Gauss,D) Henry",A
+ "The kinetic energy of an object is given by the formula","A) \( KE = \frac{1}{2} mv^2 \),B) \( KE = \frac{1}{2} mv \),C) \( KE = \frac{1}{2} mv^3 \),D) \( KE = mv \)",A
+ "The force experienced by a charged particle moving in a magnetic field is maximum when its velocity is","A) Perpendicular to the magnetic field,B) Parallel to the magnetic field,C) At 45 degrees to the magnetic field,D) Zero",C
+ "The instrument used to measure electric current is","A) Ammeter,B) Voltmeter,C) Barometer,D) Anemometer",A
+ "Which electromagnetic wave has the shortest wavelength?","A) Infrared,B) Ultraviolet,C) X-rays,D) Gamma rays",D
+ "The time period of a simple pendulum depends on its","A) Length only,B) Mass only,C) Amplitude only,D) Length and acceleration due to gravity",D
+ "The efficiency of a machine is always less than","A) 100%,B) 50%,C) 0%,D) 1%",A
+ "A transformer works on the principle of","A) Electrostatics,B) Electromagnetism,C) Electrodynamics,D) Electromagnetic Induction",D
+ "The process by which a liquid changes into vapor at any temperature below its boiling point is called","A) Melting,B) Sublimation,C) Evaporation,D) Condensation",C
+ "Which law states that the pressure exerted by a gas is directly proportional to its temperature?","A) Boyle's Law,B) Charles's Law,C) Gay-Lussac's Law,D) Avogadro's Law",B
+ "An object weighs 15 N in air and 10 N when fully immersed in water. What is the buoyant force acting on the object?","A) 5 N,B) 10 N,C) 15 N,D) 25 N",A
+ "The force of attraction between any two bodies in the universe is called","A) Gravitational force,B) Electrostatic force,C) Magnetic force,D) Nuclear force",A
+ "The unit of power is","A) Watt,B) Volt,C) Joule,D) Ohm",A
+ "Which law states that the net electric flux through any closed surface is equal to \(\frac{1}{\epsilon_0}\) times the net charge enclosed by the surface?","A) Gauss's Law,B) Coulomb's Law,C) Ampere's Law,D) Faraday's Law",A
+ "The force of attraction or repulsion between two electric charges is inversely proportional to the square of the distance between them. This statement is given by","A) Ohm's Law,B) Coulomb's Law,C) Gauss's Law,D) Kirchhoff's Law",B
+ "Which of the following materials is a good conductor of electricity?","A) Wood,B) Plastic,C) Copper,D) Rubber",C
+ "The wavelength of ultraviolet rays is","A) Longer than visible light,B) Shorter than visible light,C) Equal to visible light,D) Not comparable to visible light",B
+ "The motion of a pendulum is an example of","A) Oscillatory motion,B) Linear motion,C) Circular motion,D) Periodic motion",A
+ "The energy possessed by a body due to its motion is called","A) Potential energy,B) Kinetic energy,C) Mechanical energy,D) Internal energy",B
